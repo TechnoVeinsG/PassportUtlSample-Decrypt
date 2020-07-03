@@ -41,7 +41,7 @@ II. 説明
 III. 環境
 　本プログラムは、以下の環境にて開発しております
 　・Windows 10 pro
-　・Visual Srudio 2012
+　・Visual Studio 2012
 　・.NET Framework 4.5
 　・C#
 
